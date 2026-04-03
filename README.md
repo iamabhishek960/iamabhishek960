@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abhishek Karmakar 👋<br>Aspiring Software Developer | Python & Data Analytics Enthusiast<br><br>I am a passionate learner focused on building strong programming and analytical skills. I enjoy solving problems, exploring new technologies, and continuously improving myself.<br><br><b>Backend & Core Languages:</b><br>Python, C, C++, JavaScript (Basic), SQL<br><b>Core Concepts & Subjects:</b><br>OOP (C++), Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA),<br>Web Technologies (HTML, CSS), Computer Architecture, Digital Logic,<br>Machine Learning, Networking, Data Analytics<br><b>Databases:</b><br>MySQL, MongoDB
+I'm Abhishek Karmakar 👋<br>Aspiring Software Developer | Python & Data Analytics Enthusiast<br><br>I am a passionate learner focused on building strong programming and analytical skills. I enjoy solving problems, exploring new technologies, and continuously improving myself.<br><br><b>Backend & Core Languages:</b><br>Python, C, C++, JavaScript (Basic), SQL<br><b>Core Concepts & Subjects:</b><br>OOP (C++), Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA),Web Technologies (HTML, CSS), Computer Architecture, Digital Logic,<br>Machine Learning, Networking, Data Analytics<br><b>Databases:</b><br>MySQL, MongoDB
 
 
 ## 🌐 Socials:
